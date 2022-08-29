@@ -11,3 +11,9 @@
 7. ใช้คำสั่ง `git log --all --decorate --oneline --graph` และให้นิสิตจับภาพหน้าจอผลลัพธ์จากการใช้คำสั่งนี้
 8. นำภาพหน้าจอจากข้อ 7 ตั้งชื่อไฟล์ภาพว่า `git-log-adog.png` แล้วสร้าง commit ของขั้นตอนนี้
 9. push repository นี้กลับมาที่ GitHub Classroom
+
+## วิธีการรันไฟล์ 
+
+1. พิมพ์ "gcc program.c -o program" ที่ Terminal
+2. พิมพ์ ./program ที่ Terminal
+3. ใส่ค่าตัวเลขที่ต้องการ
